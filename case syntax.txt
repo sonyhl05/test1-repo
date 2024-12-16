@@ -1,0 +1,18 @@
+switch case
+syntax
+case $variable_name in 
+value1) statement1 
+;;
+value2) statement2
+;;
+default) statement
+esac 
+
+input value is integer then 1
+1)
+2)
+3)
+
+
+if value is string
+'string')
